@@ -80,9 +80,9 @@ const addTwo = function(num){         //ye v functionn hi hai lekin isko kavi ka
 
 
 //kucch kaam ki baatein:
-error aya access krne me lekin upar to kar liya tha
-ye problem aati hai jab aap function ko kis tarah se declare krte hai
-upar wale me tosirf hmne declaration diya hai  ; niche me hmne declare karne ke sath usko ek variable me hold v kr diya hi
-to ye ek concept aata hai javascript me age chlkar jisko kahte hai hoisting ki function kaise declare hote hai , kaha unko rakha jata hai, kya unka execution context hai ya phir kis tarh se variable ko javascript treat kri hai , kaise ek final tree banati jaha par sare variables rkhe jate hai ,sare functions rkhe jate hai
+// error aya access krne me lekin upar to kar liya tha
+// ye problem aati hai jab aap function ko kis tarah se declare krte hai
+// upar wale me tosirf hmne declaration diya hai  ; niche me hmne declare karne ke sath usko ek variable me hold v kr diya hi
+// to ye ek concept aata hai javascript me age chlkar jisko kahte hai hoisting ki function kaise declare hote hai , kaha unko rakha jata hai, kya unka execution context hai ya phir kis tarh se variable ko javascript treat kri hai , kaise ek final tree banati jaha par sare variables rkhe jate hai ,sare functions rkhe jate hai
 
-to ye ek hoisting hota hai jaha pe executon context banta hai ki aap dcelaration se pahle aap use ni kr sakte hai but is case me aap kr parhe hai aur us case me nhi kr pate hai ye dhyan rkhiyega 
+// to ye ek hoisting hota hai jaha pe executon context banta hai ki aap dcelaration se pahle aap use ni kr sakte hai but is case me aap kr parhe hai aur us case me nhi kr pate hai ye dhyan rkhiyega 
